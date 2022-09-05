@@ -8,12 +8,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" alt="figma"/>
 </div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=polechkapo&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=polechkapo&repo=convoychat" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polechkapo&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center">В планах: </h3>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" alt="ts"/>
