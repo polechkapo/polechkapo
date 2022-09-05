@@ -1,4 +1,4 @@
-<div style="display:flex; flex-direction:column; align-items:center;"><h1 align="center">Всем привет, я Поля <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1></div>
+<div style="display:flex; flex-direction:column; align-items:center;"><h1 align="center">Всем привет, я Поля <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
    <p align="center">Frontend разработчик с опытом более года, использую современные инструменты разработки, такие как: Javascript, React, Redux Toolkit. Свободно верстаю на препроцессоре SASS, работала с фреймворками для стилей, но предпочитаю верстать сама. Также владею навыками UI/UX дизайна, использую в работе Figma и Adobe Photoshop.</p>
    
 <h3 align="center">Мой стек: </h3>
@@ -12,3 +12,4 @@
 
 <h3 align="center">В планах: </h3>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" alt="ts"/>
+</div>
