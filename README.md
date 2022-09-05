@@ -8,10 +8,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" alt="figma"/>
 </div>
    
-<br>
+</br>
 
-<span>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polechkapon&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)</span>
+<span>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polechkapo&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)</span>
 
 <h3>В планах: </h3>
+</br>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" alt="ts"/>
 </div>
