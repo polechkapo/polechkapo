@@ -14,17 +14,12 @@
 
 <span>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polechkapo&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)</span>
 
-<h2 align=center>&#128241; Связь со мной: &#128241;</h2>
+<h3> Связь со мной: </h3>
 
-<p align=center>
-  <a href="https://t.me/semyonSergeev/" title="telegram">
-    <img width=60 height=60 src="https://camo.githubusercontent.com/802e6513a19383f844ad4138d311c7840c1c3718c586757a214a2f28b740ea7b/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f3030303030302f74656c656772616d2d6170702e706e67">
+  <a href="https://t.me/polechkapo/" title="telegram">
+    <img width="30"src="https://camo.githubusercontent.com/802e6513a19383f844ad4138d311c7840c1c3718c586757a214a2f28b740ea7b/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f3030303030302f74656c656772616d2d6170702e706e67">
   </a>
-  <a href="https://wa.me/89043974118" title="whatsapp">
-    <img width=60 height=60 src="https://camo.githubusercontent.com/d2948d147ff253ef819a8ce84bb82758d699907bc2fcf7a005ebd591edfb0317/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f77686174736170702e706e67">
+  <a href="mailto:larionovapo1@gmail.com" title="send email">
+    <img width="30"src="https://raw.githubusercontent.com/vladimirChugunov/vladimirChugunov/main/img/icons8-gmail-48.png">
   </a>
-  <a href="mailto:semyonsergeev.dev@gmail.com" title="send email">
-    <img width=60 height=60 src="https://raw.githubusercontent.com/vladimirChugunov/vladimirChugunov/main/img/icons8-gmail-48.png">
-  </a>
-</p>
 
