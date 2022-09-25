@@ -13,13 +13,3 @@
 </br>
 
 <span>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polechkapo&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)</span>
-
-<h3> Связь со мной: </h3>
-
-  <a href="https://t.me/polechkapo/" title="telegram">
-    <img width="30"src="https://camo.githubusercontent.com/802e6513a19383f844ad4138d311c7840c1c3718c586757a214a2f28b740ea7b/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f3030303030302f74656c656772616d2d6170702e706e67">
-  </a>
-  <a href="mailto:larionovapo1@gmail.com" title="send email">
-    <img width="30"src="https://raw.githubusercontent.com/vladimirChugunov/vladimirChugunov/main/img/icons8-gmail-48.png">
-  </a>
-
