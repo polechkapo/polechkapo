@@ -8,8 +8,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" alt="figma"/>
 </div>
    </p>
-
-   
 </br>
-
 <span>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polechkapo&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)</span>
