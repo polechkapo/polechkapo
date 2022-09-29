@@ -1,5 +1,7 @@
 <div style="display:flex; flex-direction:column"><h1>Всем привет, я Поля <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-   <p>Frontend разработчик с опытом более года, использую современные инструменты разработки, такие как: Javascript, React, Redux Toolkit. Свободно верстаю на препроцессоре SASS, работала с фреймворками для стилей, но предпочитаю верстать сама. Также владею навыками UI/UX дизайна, использую в работе Figma и Adobe Photoshop.</p>
+   <p>Пишу на Javascript, React + Redux/Redux Toolkit, есть опыт взаимодействия с серверными API, спокойно могу читать техническую документацию на английском языке. 
+Умею верстать так, чтобы верстка была адаптивная, валидная и кроссбраузерная. 
+Мне нравится писать функциональные компоненты с использованием React-hooks, разрабатывать клиентскую логику приложения и делать интересный функционал. Плюс владею навыками UI/UX дизайна, использую в работе Figma и Adobe Photoshop.</p>
  <p align=center>
 <h3>Мой стек: </h3>
 <div style="display:flex; flex-direction:row; justify-content:center; gap:10px; align:center;">
